@@ -6,7 +6,7 @@
 
 ## **☕ About me**
 <a href="https://github.com/yashaasterisk"><img align="left" width="140" src="./images/marin_kya.webp"></a>
-- Name: **Yasha Asterisk, 黒夜叉 アステル** 
+- Name: **Yasha Asterisk, 夜咲* ** 
 - Residing in: **Indonesia**
 - Hoobies: **Sleep, 3D Modeling**
 - Work: **UNEMPLOYED**
